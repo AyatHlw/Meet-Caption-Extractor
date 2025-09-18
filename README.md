@@ -33,8 +33,8 @@ This project is a Chrome Extension that allows users to automatically capture ca
 
 Here’s a quick look at the extension in action:
 
-![Extension Popup](screenshots/popup.png)
+![Extension Popup](screenshots/popup.jpg)
 *The extension popup showing captured captions.*
 
-![Captions Download](screenshots/download.png)
+![Captions Download](screenshots/download.jpg)
 *Download the extracted captions with one click.*
